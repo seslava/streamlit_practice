@@ -5,3 +5,7 @@ streamlit
 numba
 numpy
 opencv-python-headless
+matplotlib
+altair
+plotly
+pandas
